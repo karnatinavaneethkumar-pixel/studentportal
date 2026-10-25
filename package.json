@@ -1,0 +1,17 @@
+{
+  "name": "student-portal",
+  "version": "1.0.0",
+  "description": "Student Skill Exchange Portal — SkillBridge",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "student-portal",
+    "skillbridge",
+    "skills-exchange"
+  ],
+  "author": "",
+  "license": "ISC"
+}
